@@ -57,6 +57,8 @@
 
 
 <script src="/decentr.net/js/main.js"></script>
+<script src="/decentr.net/js/scroll.js"></script>
+<script src="/decentr.net/js/resize.js"></script>
 
 <!--
 /*
@@ -83,36 +85,37 @@
 
 
   </head>
-  <body>
+  <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
 
     <header>
 
-  <div class="container">
+  <div id="nav" class="container">
    <div class="row">
      <div class="col-md-12">
        <!-- header Nav Start -->
-       <nav class="navbar navbar-default">
+       <nav class="navbar navbar-inverse navbar-default navbar-fixed-top" role="navigation">
          <div class="container-fluid">
            <!-- Brand and toggle get grouped for better mobile display -->
-           <div class="navbar-header">
-             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+           <div class="navbar-header page-scroll">
+             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-ex1-collapse">
              <span class="sr-only">Toggle navigation</span>
              <span class="icon-bar"></span>
              <span class="icon-bar"></span>
              <span class="icon-bar"></span>
              </button>
-             <a class="navbar-brand" href="/decentr.net/">
+             <a class="navbar-brand page-scroll" href="/decentr.net/">
                <img class="img-responsive" src="/decentr.net/img/nav_logo_dc.png" alt="Logo">
              </a>
            </div>
              <!-- Collect the nav links, forms, and other content for toggling -->
-             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+             <div class="collapse navbar-collapse navbar-ex1-collapse" id="bs-example-navbar-collapse-1">
                  <ul class="nav navbar-nav navbar-right">
-                 <li><a class="page-scroll" data-toggle="collapse" data-target=".navbar-collapse.in" href="#service">What</a></li>
-                 <li><a class="page-scroll" data-toggle="collapse" data-target=".navbar-collapse.in" href="#feature">How</a></li>
-                 <li><a class="page-scroll" data-toggle="collapse" data-target=".navbar-collapse.in" href="#roadmap">When</a></li>
-                 <li><a class="page-scroll" data-toggle="collapse" data-target=".navbar-collapse.in" href="#team">Who</a></li>
+                 <li><a class="page-scroll"  href="#page-top">Why</a></li>
+                 <li><a class="page-scroll"  href="#service">What</a></li>
+                 <li><a class="page-scroll"  href="#feature">How</a></li>
+                 <li><a class="page-scroll"  href="#roadmap">When</a></li>
+                 <li><a class="page-scroll"  href="#team">Who</a></li>
                  <li><a href="/decentr.net/contact">Contact</a></li>
                  <li><a href="/decentr.net/blog">Blog</a></li>
                </ul>
@@ -127,7 +130,7 @@
 
 
 
-      <section id="slider">
+    <section id="slider">
   <div class="container">
     <div class="row">
       <div class="col-md-10 col-md-offset-2">
@@ -157,7 +160,7 @@
  */
 -->
 
-  <section id="service">
+<section id="service">
   <div class="container">
     <div class="row">
       <div class="section-title">
@@ -238,13 +241,13 @@
  */
 -->
 
-  <section id="feature">
+<section id="feature">
   <div class="container">
 
     <div class="row">
       <div class="col-sm-12">
 
-            <div class="section-title">
+        <div class="section-title">
           <h1>Decentr web 3.0 architecture</h1>
         </div>
 
@@ -279,7 +282,7 @@
       </div>
       <div class="col-md-5">
         <div class="par1">
-          <img class="img-responsive" src="https://res.cloudinary.com/liberationfront/image/upload/v1563203488/g6892_l5gutr.png" alt="Next Generation Internet components">
+          <img class="img-responsive" src="https://res.cloudinary.com/liberationfront/image/upload/v1563492358/g12635_i7ocdt.png" alt="Next Generation Internet components">
         </div>
       </div>
 
@@ -299,24 +302,28 @@
  */
 -->
 
-  <section id="roadmap">
+<section id="roadmap">
   <div class="container">
-  <div class="section-title">
+    <div class="section-title">
       <h1>DECENTR ROADMAP</h1>
-</div>
+    </div>
 
     <ul class="timeline">
-      <li><div class="tldate">FEB 2018</div></li>
+      <li>
+        <div class="tldate">FEB 2018</div>
+      </li>
 
       <li>
         <div class="tl-circ"><i class="ion-checkmark"></i></div>
         <div class="timeline-panel">
           <div class="tl-heading">
             <h4>Decentr incorporated </h4>
-        </div>
+          </div>
       </li>
 
-  <li><div class="tldate">AUG 2018</div></li>
+      <li>
+        <div class="tldate">AUG 2018</div>
+      </li>
 
       <li class="timeline-inverted">
         <div class="tl-circ"><i class="ion-checkmark"></i></div>
@@ -327,7 +334,9 @@
         </div>
       </li>
 
-      <li><div class="tldate">SEP 2018</div></li>
+      <li>
+        <div class="tldate">SEP 2018</div>
+      </li>
 
       <li>
         <div class="tl-circ"><i class="ion-checkmark"></i></div>
@@ -339,7 +348,9 @@
       </li>
 
 
-  <li><div class="tldate">MAR 2019</div></li>
+      <li>
+        <div class="tldate">MAR 2019</div>
+      </li>
 
       <li class="timeline-inverted">
         <div class="tl-circ"><i class="ion-checkmark"></i></div>
@@ -351,18 +362,22 @@
       </li>
 
 
-          <li><div class="tldate">SEP 2019</div></li>
+      <li>
+        <div class="tldate">SEP 2019</div>
+      </li>
 
-          <li>
-            <div class="tl-circ"></div>
-            <div class="timeline-panel">
-              <div class="tl-heading">
-                <h4>IEO LAUNCH</h4>
-            </div>
-          </li>
+      <li>
+        <div class="tl-circ"></div>
+        <div class="timeline-panel">
+          <div class="tl-heading">
+            <h4>IEO LAUNCH</h4>
+          </div>
+      </li>
 
 
-          <li><div class="tldate">OCT 2019</div></li>
+      <li>
+        <div class="tldate">OCT 2019</div>
+      </li>
 
       <li class="timeline-inverted">
         <div class="tl-circ"></div>
@@ -373,29 +388,20 @@
         </div>
       </li>
 
-      <li><div class="tldate">NOV 2020</div></li>
+      <li>
+        <div class="tldate">NOV 2020</div>
+      </li>
       <li>
         <div class="tl-circ"></div>
         <div class="timeline-panel">
           <div class="tl-heading">
             <h4>integrated Decentr prototype ready</h4>
-        </div>
+          </div>
       </li>
 
-    </ul
-    </div>
-</section>
+    </ul </div> </section>
 
-<!--
-/*
- *
- *
- *
- *
- *
- *
- */
--->
+    <!-- /* * * * * * * */ -->
 
 
 

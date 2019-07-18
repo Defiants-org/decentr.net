@@ -51,6 +51,7 @@ a:active {
 }
 .section-title {
   margin-bottom: 100px;
+  padding-top: 50px;
 }
 .section-title h2 {
   text-transform: uppercase;
@@ -67,15 +68,22 @@ a:active {
 	Header Start
 --*/
 header {
-  background: #fff;
-  padding: 20px 0;
+  padding: 50px 0;
 }
+
+#nav .navbar {
+  background: #fff;
+  padding: 10px;
+  -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
+}
+
 header .navbar {
   margin-bottom: 0px;
   border: 0px;
 }
-header .navbar-brand {
+#nav .navbar-brand {
   padding-top: 20px;
+  margin-left: 100px;
   height: 70%;
   Width: 450px;
 }
@@ -84,13 +92,63 @@ header .navbar-default {
   border: 0px;
 }
 header .navbar-default .navbar-nav {
-  padding-top: 50px;
+  padding-top: 30px;
+  margin-right: 40px;
 }
-header .navbar-default .navbar-nav li a {
-  color: #333333;
+#nav .navbar-default .navbar-nav li a {
+  color: #888;
   padding: 10px 26px;
-  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 17px;
+  text-transform: uppercase;
+  line-height: 60px;
+  letter-spacing: 3px;
 }
+
+#nav .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+  color: #fff;
+  background: rgba(6, 144, 153, 0.8);
+  -webkit-box-shadow: 0 0 7px rgba(0,0,0,0.6);
+}
+
+nav a {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+  font-size: 18px;
+}
+.navbar-inverse{
+    background-color:#f00;
+    }
+nav .navbar-toggle {
+  margin: 13px 15px 13px 0;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+nav.navbar.shrink {
+  min-height: 35px;
+}
+
+nav.shrink a {
+  padding-top: 2px !important;
+  padding-bottom: 2px !important;
+  font-size: 10px;
+}
+
+nav.shrink .navbar-brand {
+  width: 30px;
+}
+
+nav.shrink .navbar-toggle {
+  padding: 4px 5px;
+  margin: 8px 15px 8px 0;
+}
+.add{
+    background-color:#ff0;}
+
 font header .navbar-default .navbar-nav li a:hover {
   color: #000;
 }
@@ -172,7 +230,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 150px 0 300px 0;
   position: relative;
   text-align: center;
-  padding: 0 0 100px 0;
+  padding: 100px 0;
 }
 
 #service .service-item {
@@ -186,9 +244,8 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #service  h1 {
   font-size: 28px;
-  padding-top: 100px;
   margin: 0;
-  color: #000;
+    color: #6c6868 !important;
   font-weight: 600;
 }
 #service .service-item p {
@@ -581,7 +638,7 @@ ROADMAP
   border-top-left-radius: 50%;
   border-bottom-right-radius: 50%;
   border-bottom-left-radius: 50%;
-  z-index: 99999;
+  z-index: 0;
     -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
 }
 
