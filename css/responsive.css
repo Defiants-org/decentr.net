@@ -354,16 +354,6 @@ px      68    160    252    */
   /*--
     Header Start
   --*/
-  header .navbar-brand {
-    padding-top: 40px;
-    Width: 400px;
-    margin-bottom: 10px;
-  }
-
-  header .navbar-default .navbar-toggle {
-    margin-top: 20px;
-    margin-bottom: 20px;
-  }
 
   /*--
 	Slider Start
@@ -1188,20 +1178,19 @@ font-size: 15px;
 
   #nav .navbar-brand {
       padding-top: 20px;
-      margin-left: 10px;
-      Width: 230px;
+      margin-left: 5px;
+      Width: 200px;
   }
 
   #nav .navbar {
 	  background: #fff;
-	  padding: 20px;
+	  padding: 2px;
 	  -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
 	}
 
 
-
   		nav .navbar-toggle {
-  		  margin: 17px 15px 13px 0;
+  		  margin: 25px 15px 13px 0;
   		}
 
   		.navbar-inverse .navbar-toggle {
@@ -1214,7 +1203,7 @@ font-size: 15px;
 
   #nav nav.shrink .navbar-toggle {
   padding: 4px 5px;
-  margin: 14px 15px 8px 0;
+  margin: 20px 15px 8px 0;
   }
 
 
@@ -1222,7 +1211,8 @@ font-size: 15px;
   	Slider Start
   --*/
   #slider {
-    padding: 50px 0 100px 0;
+    padding: 120px 0 30px 0;
+
     background: url("../img/res_bg.png") no-repeat;
   }
 
@@ -1255,6 +1245,9 @@ font-size: 15px;
       background: url("../img/rm2.png") no-repeat;
     }
 
+    #service h1 {
+        padding-top: 0;
+    }
 
   #service .section-title h2 {
     padding: 1px 0 0 0;
@@ -1325,7 +1318,7 @@ margin: 0;
   	Feature Start
   --*/
   #feature {
-    padding: 1px 0 50px;
+    padding: 1px 0 1px;
 
   }
 
