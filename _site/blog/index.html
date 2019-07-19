@@ -84,6 +84,50 @@
 	  height: 70%;
 	  Width: 450px;
 	}
+
+	@media only screen and (max-width: 320px) {
+
+	  #nav .navbar-brand {
+	      padding-top: 20px;
+	      margin-left: 10px;
+	      Width: 230px;
+	  }
+
+	  #nav .navbar {
+		  background: #fff;
+		  padding-bottom: 20px;
+		  -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
+		}
+		nav .navbar-toggle {
+		  margin: 17px 15px 13px 0;
+		}
+
+		.navbar-inverse .navbar-toggle {
+    border-color: rgba(6, 144, 153, 0.8);
+}
+
+		.navbar-toggle {
+    background-color: rgba(6, 144, 153, 0.8);
+}
+
+#nav nav.shrink .navbar-toggle {
+padding: 4px 5px;
+margin: 14px 15px 8px 0;
+}
+
+/** panel arrows **/
+#roadmap .timeline li .timeline-panel:before {
+	display: none;
+}
+
+#roadmap .timeline li .timeline-panel:after {
+	display: none;
+}
+
+		}
+
+
+
 	header .navbar-default {
 	  background: none;
 	  border: 0px;
@@ -117,9 +161,7 @@
 	.navbar-inverse{
 	    background-color:#f00;
 	    }
-	nav .navbar-toggle {
-	  margin: 13px 15px 13px 0;
-	}
+
 
 	.navbar-brand {
 	  font-size: 30px;
@@ -150,30 +192,7 @@
 	  color: #000;
 	}
 
-	.section-title {
-	  margin-bottom: 100px;
-	  padding-top: 50px;
-	}
 
-	#roadmap .timeline li .tl-circ {
-	  position: absolute;
-	  top: 23px;
-	  left: 50%;
-	  text-align: center;
-	  background: rgba(0, 131, 143, 0.86);
-	  color: #fff;
-	  width: 35px;
-	  height: 35px;
-	  line-height: 35px;
-	  margin-left: -16px;
-	  border: 0px solid rgba(0, 131, 143, 0.86);
-	  border-top-right-radius: 50%;
-	  border-top-left-radius: 50%;
-	  border-bottom-right-radius: 50%;
-	  border-bottom-left-radius: 50%;
-	  z-index: 0;
-	    -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
-	}
 </style>
 
 <!--

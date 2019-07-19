@@ -1171,13 +1171,35 @@ font-size: 15px;
 /*---------------------------------------------------------------------------- --------------------------------------   --*/
 @media only screen and (max-width: 320px) {
 
+
+  .section-title {
+      margin-bottom: 100px;
+      padding-top: 100px;
+  }
+
+  h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 2px;
+    margin-bottom: 1px;
+}
+
   /*--
   	Header Start
   --*/
-  header .navbar-brand {
-    padding-top: 1px;
-    Width: 75%;
+
+  #nav .navbar-brand {
+      padding-top: 20px;
+      margin-left: 10px;
+      Width: 230px;
   }
+
+  #nav .navbar {
+	  background: #fff;
+	  padding: 20px;
+	  -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
+	}
+
+
+
 
   /*--
   	Slider Start
@@ -1297,7 +1319,6 @@ margin: 0;
   #feature h1 {
     text-align: center;
     color: #fff;
-    padding: 100px 0 4px 0;
   }
 
   #feature h4 {
@@ -1345,7 +1366,7 @@ margin: 0;
 
   /*--
     roadmap Start
-  --*/`m`
+  --*/
 
   /** panel arrows **/
   #roadmap .timeline li .timeline-panel:before {
@@ -1366,9 +1387,14 @@ margin: 0;
 
 #roadmap {
   background: url("../img/rm.png") no-repeat;
+  padding: 0;
 }
 
 
+#roadmap .timeline li .tl-circ {
+		  z-index: 1;
+
+		}
 
 
     /*--

@@ -409,7 +409,7 @@ ROADMAP
 }
 
 #roadmap h1 {
-  color: #000;
+    color: #6c6868 !important;
   text-transform: uppercase;
   font-size: 28px;
   font-weight: 600;
@@ -551,7 +551,7 @@ ROADMAP
   border-top-left-radius: 50%;
   border-bottom-right-radius: 50%;
   border-bottom-left-radius: 50%;
-  z-index: 0;
+  z-index: 2;
     -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
 }
 
