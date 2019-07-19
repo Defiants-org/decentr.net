@@ -1200,6 +1200,23 @@ font-size: 15px;
 
 
 
+  		nav .navbar-toggle {
+  		  margin: 17px 15px 13px 0;
+  		}
+
+  		.navbar-inverse .navbar-toggle {
+      border-color: rgba(6, 144, 153, 0.8);
+  }
+
+  		.navbar-toggle {
+      background-color: rgba(6, 144, 153, 0.8);
+  }
+
+  #nav nav.shrink .navbar-toggle {
+  padding: 4px 5px;
+  margin: 14px 15px 8px 0;
+  }
+
 
   /*--
   	Slider Start
