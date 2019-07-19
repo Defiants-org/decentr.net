@@ -686,12 +686,56 @@ px      68    160    252    344    436    */
     margin-top: 15px;
   }
 
+  .section-title {
+      margin-bottom: 100px;
+      padding-top: 100px;
+  }
+
+  h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 2px;
+    margin-bottom: 1px;
+}
+
+  /*--
+    Header Start
+  --*/
+
+  #nav .navbar-brand {
+      padding-top: 20px;
+      margin-left: 5px;
+      Width: 200px;
+  }
+
+  #nav .navbar {
+    background: #fff;
+    padding: 2px;
+    -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
+  }
+
+
+      nav .navbar-toggle {
+        margin: 25px 15px 13px 0;
+      }
+
+      .navbar-inverse .navbar-toggle {
+      border-color: rgba(6, 144, 153, 0.8);
+  }
+
+      .navbar-toggle {
+      background-color: rgba(6, 144, 153, 0.8);
+  }
+
+  #nav nav.shrink .navbar-toggle {
+  padding: 4px 5px;
+  margin: 20px 15px 8px 0;
+  }
+
   /*--
     Slider Start
   --*/
   #slider {
     background: url("../img/res_bg.png") no-repeat;
-    padding: 50px 0 100px 0;
+    padding: 120px 0 30px 0;
   }
 
   #slider:before {
@@ -700,9 +744,9 @@ px      68    160    252    344    436    */
 
   #slider .block h1 {
     font-weight: 300;
-    font-size: 35px;
+    font-size: 30px;
     text-align: center;
-    margin: 0;
+    margin: 5px;
   }
 
   #slider .block p {
@@ -729,6 +773,10 @@ px      68    160    252    344    436    */
 
     font-size: 20px;
     text-align: center;
+  }
+
+  #service h1 {
+    padding: 1px 0 0 0;
   }
 
   #service .service-item {
@@ -793,7 +841,7 @@ margin: 0;
 #feature h1 {
   text-align: center;
   color: #fff;
-  padding: 100px 0 4px 0;
+  padding: 0 0 4px 0;
 }
 
 #feature h4 {
@@ -845,6 +893,7 @@ margin-top: 0px;
 
 #roadmap {
   background: url("../img/rm.png") no-repeat;
+  padding: 0;
 }
 
 /** panel arrows **/
@@ -927,12 +976,56 @@ font-size: 15px;
     Width: 80%;
   }
 
+  .section-title {
+      margin-bottom: 100px;
+      padding-top: 100px;
+  }
+
+  h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 2px;
+    margin-bottom: 1px;
+}
+
+  /*--
+    Header Start
+  --*/
+
+  #nav .navbar-brand {
+      padding-top: 20px;
+      margin-left: 5px;
+      Width: 200px;
+  }
+
+  #nav .navbar {
+    background: #fff;
+    padding: 2px;
+    -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
+  }
+
+
+      nav .navbar-toggle {
+        margin: 25px 15px 13px 0;
+      }
+
+      .navbar-inverse .navbar-toggle {
+      border-color: rgba(6, 144, 153, 0.8);
+  }
+
+      .navbar-toggle {
+      background-color: rgba(6, 144, 153, 0.8);
+  }
+
+  #nav nav.shrink .navbar-toggle {
+  padding: 4px 5px;
+  margin: 20px 15px 8px 0;
+  }
+
   /*--
     Slider Start
   --*/
   #slider {
     background: url("../img/res_bg.png") no-repeat;
-    padding: 50px 0 100px 0;
+    padding: 120px 0 30px 0;
   }
 
   #slider:before {
@@ -1035,7 +1128,7 @@ margin: 0;
   #feature h1 {
     text-align: center;
     color: #fff;
-    padding: 100px 0 4px 0;
+    padding: 0 0 4px 0;
   }
 
   #feature h4 {
@@ -1086,6 +1179,7 @@ margin: 0;
   --*/
   #roadmap {
     background: url("../img/rm.png") no-repeat;
+    padding: 0;
   }
 
   /** panel arrows **/
