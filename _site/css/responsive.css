@@ -199,6 +199,44 @@ px      68    160    252    344    436    528    620    712    */
     font-size: 15px;
   }
 
+  #slider {
+    padding-top: 100px;
+    padding-bottom: 140px;
+    background: url("../img/res_bg.png");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 10% 50%;
+  }
+
+  #slider .block {
+    padding-left: 0px;
+  }
+
+  #slider .block h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 23px;
+    margin: 25px;
+    margin-right: 100px;
+    line-height: 60px;
+    letter-spacing: 10px;
+    padding-bottom: 25px;
+    padding-top: 80px;
+  }
+
+  #slider .block p {
+    font-size: 18px;
+    line-height: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin: 25px;
+    letter-spacing: 3px;
+  }
+
+  #slider p {
+    padding-right: 100px
+  }
+
   /*--
     Service Start
   --*/
@@ -542,7 +580,7 @@ px      68    160    252    */
 	Slider Start
 --*/
   #slider {
-    padding-top: 150px;
+    padding-top: 100px;
     padding-bottom: 140px;
     background: url("../img/res_bg.png");
     background-size: cover;
@@ -562,11 +600,12 @@ px      68    160    252    */
     text-align: center;
     line-height: 60px;
     letter-spacing: 10px;
-    padding-bottom: 45px;
+    padding-bottom: 25px;
+    padding-top: 35px;
   }
 
   #slider .block p {
-    font-size: 23px;
+    font-size: 22px;
     line-height: 40px;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
@@ -875,7 +914,7 @@ px      68    160    252    344    436    */
   --*/
   #slider {
     background: url("../img/res_bg.png") no-repeat;
-    padding: 80px 0 60px 0;
+    padding: 60px 0 60px 0;
   }
 
   #slider:before {
@@ -887,6 +926,8 @@ px      68    160    252    344    436    */
     font-size: 30px;
     text-align: center;
     margin: 5px;
+    padding-bottom: 25px;
+    padding-top: 80px;
   }
 
   #slider .block p {
@@ -1430,7 +1471,7 @@ px      68    160    252    344    436    */
   	Slider Start
   --*/
   #slider {
-    padding: 65px 0 30px 0;
+    padding: 100px 0 30px 0;
     background: url("../img/res_bg.png") no-repeat;
   }
 
@@ -1440,9 +1481,11 @@ px      68    160    252    344    436    */
 
   #slider .block h1 {
     font-weight: 300;
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
     margin: 0;
+    padding-bottom: 25px;
+    padding-top: 35px;
   }
 
   #slider .block p {

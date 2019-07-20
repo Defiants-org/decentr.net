@@ -169,7 +169,7 @@ nav.shrink .navbar-toggle {
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 50%;
-  padding: 200px 0 300px 0;
+  padding: 200px 0 200px 0;
   position: relative;
 }
 #slider:before {
@@ -197,6 +197,7 @@ nav.shrink .navbar-toggle {
   line-height: 60px;
   letter-spacing: 10px;
   padding-bottom: 45px;
+  padding-top: 80px;
 
 }
 #slider .block p {
@@ -795,7 +796,7 @@ font-weight: 500;
   box-sizing: border-box;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  padding: 0 0 100px 0;
+  padding: 0 0 50px 0;
 }
 
 
@@ -858,7 +859,7 @@ margin-top: 50px;
   letter-spacing: 1px;
   text-align: justify;
 margin: 0 30px 0 20px;
-padding: 20px 25px 100px 30px;
+padding: 20px 20px 100px 30px;
 background: rgba(6, 144, 153, 0.8);
 -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
 }
@@ -874,7 +875,7 @@ background: rgba(6, 144, 153, 0.8);
   letter-spacing: 1px;
   text-align: justify;
 margin: 0 30px 0 20px;
-padding: 20px 25px 40px 30px;
+padding: 20px 20px 40px 30px;
 background: rgba(6, 144, 153, 0.8);
 -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
 }
@@ -890,7 +891,7 @@ background: rgba(6, 144, 153, 0.8);
   letter-spacing: 1px;
   text-align: justify;
 margin: 0 30px 0 20px;
-padding: 20px 25px 100px 30px;
+padding: 20px 20px 100px 30px;
 background: rgba(6, 144, 153, 0.8);
 -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
 }
