@@ -395,6 +395,12 @@ px      68    160    252    344    436    528    620    712    */
   -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
   }
 
+  #global-header .block h1 {
+    margin-left: -70px;
+    margin-top: 20px;
+    text-transform: capitalize;
+  }
+
 
   /*--
 	footer Start
@@ -732,9 +738,12 @@ px      68    160    252    */
   /*--
   Contact Start
 --*/
-  #global-header .block h1 {
-    margin-left: -70px;
-  }
+#global-header .block h1 {
+  margin-left: -70px;
+  margin-top: 20px;
+  text-transform: capitalize;
+}
+
 
   /*--
 	slider-contact Start
@@ -1076,9 +1085,12 @@ px      68    160    252    344    436    */
   /*--
   Contact Start
 --*/
-  #global-header .block h1 {
-    margin-left: -70px;
-  }
+#global-header .block h1 {
+  margin-left: -70px;
+  margin-top: 20px;
+  text-transform: capitalize;
+}
+
 
   /*--
   	footer Start
@@ -1353,9 +1365,12 @@ px      68    160    252    344    436    */
   /*--
   Contact Start
 --*/
-  #global-header .block h1 {
-    margin-left: -70px;
-  }
+#global-header .block h1 {
+  margin-left: -70px;
+  margin-top: 20px;
+  text-transform: capitalize;
+}
+
 
   /*--
   	footer Start
@@ -1637,7 +1652,11 @@ px      68    160    252    344    436    */
   --*/
   #global-header .block h1 {
     margin-left: -70px;
+    margin-top: 20px;
+    text-transform: capitalize;
   }
+
+
 
   /*--
   	footer Start
