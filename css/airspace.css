@@ -248,8 +248,8 @@ nav.shrink .navbar-toggle {
 }
 #service  h1 {
   font-size: 28px;
-  margin: 40px 0 0 0;
-  color: #000;
+  margin: 0 0 0 0;
+  color: #6b6b6b;
   font-weight: 600;
 }
 #service .service-item p {
@@ -357,6 +357,7 @@ margin: 0 -30px 0 -30px;
   box-sizing: border-box;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
+  padding-bottom: 100px;
 }
 
 #feature:before {
@@ -427,7 +428,7 @@ padding: 30px 10px 10px 20px;
 }
 
 #feature .par1 {
-width: 94.8%;
+width: 91.58%;
 }
 
 #feature .p1 {
@@ -492,13 +493,13 @@ ROADMAP
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 50%;
-  padding: 0 0 300px 0;
+  padding: 0 0 50px 0;
   position: relative;
   text-align: center;
 }
 
 #roadmap h1 {
-  color: #000;
+  color: #6b6b6b;
   text-transform: uppercase;
   font-size: 28px;
   font-weight: 600;
@@ -767,27 +768,70 @@ font-weight: 500;
 	Team
 --*/
 
-#team {
-  background: url("../img/george-pagan-iii-1464107-unsplash.jpg") no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  padding: 70px 0px;
-  position: relative;
-  text-align: center;
-  color: #fff;
+
+#team .section-title {
+  margin-bottom: 50px;
+  padding-top: 100px;
 }
 
-#team:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  right: 0;
+
+#team {
+  background: url("../img/hex7.png") no-repeat;
+  background-position: 50% 94px;
   width: 100%;
-  height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
-  opacity: 0.8;
+  display: block;
+  position: relative;
+  overflow: visible;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #fff;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  padding: 0 0 50px 0;
+}
+
+
+
+#team h1 {
+  color: #6b6b6b;
+  text-transform: uppercase;
+  font-size: 28px;
+  font-weight: 600;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+
+#team h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  color: #6b6b6b;
+  text-align: center;
+  line-height: 30px;
+  text-transform: uppercase;
+  margin-top: 0px;
+  font-weight: 500;
+  letter-spacing: 6px;
+}
+
+#team h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  color: #6b6b6b;
+  text-align: center;
+  line-height: 30px;
+  text-transform: uppercase;
+  margin-top: 20px;
+  font-weight: 400;
+  letter-spacing: 6px;
 }
 
 /* Heading */
@@ -798,24 +842,57 @@ font-weight: 500;
     margin-bottom: 0px;
 }
 
-#team a {
-  font-size: 30px;
+#team img {
+width: 100px;
+margin-top: 50px;
+}
+
+#team .a1 p {
   color: #fff;
+  text-align: left;
+  font-size: 15px;
+  line-height: 30px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  padding-right: 5px;
+  letter-spacing: 1px;
+  text-align: justify;
+margin: 0 30px 0 20px;
+padding: 20px 20px 100px 30px;
+background: rgba(6, 144, 153, 0.8);
+-webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
 }
 
-#team .heading h2 {
-    font-size: 40px;
-    font-weight: 500;
-    margin: 0 0 20px;
-    color: #FFF;
+#team .a2 p {
+  color: #fff;
+  text-align: left;
+  font-size: 15px;
+  line-height: 30px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  padding-right: 5px;
+  letter-spacing: 1px;
+  text-align: justify;
+margin: 0 30px 0 20px;
+padding: 20px 20px 40px 30px;
+background: rgba(6, 144, 153, 0.8);
+-webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
 }
 
-#team .heading p {
-    font-size: 16px;
-    font-weight: 300;
-    letter-spacing: 0.5px;
-    text-transform: uppercase;
-    color: #8693a7;
+#team .a3 p {
+  color: #fff;
+  text-align: left;
+  font-size: 15px;
+  line-height: 30px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  padding-right: 5px;
+  letter-spacing: 1px;
+  text-align: justify;
+margin: 0 30px 0 20px;
+padding: 20px 20px 100px 30px;
+background: rgba(6, 144, 153, 0.8);
+-webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
 }
 
 /* Team Members */
@@ -1045,8 +1122,8 @@ font-weight: 500;
 #global-header {
   background: url("../img/nasa_land.jpg") no-repeat;
   background-size: cover;
-  padding-top: 150px;
-  padding-bottom: 107px;
+  padding-top: 200px;
+  padding-bottom: 150px;
   position: relative;
   background-attachment: fixed;
 }
@@ -1074,7 +1151,7 @@ font-weight: 500;
   font-size: 45px;
   letter-spacing: 6px;
   padding-bottom: 15px;
-  margin-top: 0;
+  margin-top: 100px;
   text-transform: capitalize;
 }
 #global-header .block p {
@@ -1344,9 +1421,9 @@ font-weight: 500;
   margin: 0px;
 }
 #contact-form .block form .form-group .form-control {
-  background: #F6F8FA;
+  background: rgba(6, 144, 153, 0.2);
   height: 60px;
-  border: 1px solid #EEF2F6;
+  border: 1px solid rgba(6, 144, 153, 0.8);
   box-shadow: none;
   width: 100%;
 }
@@ -1355,16 +1432,16 @@ font-weight: 500;
   margin: 0px;
 }
 #contact-form .block form .form-group-2 textarea {
-  background: #F6F8FA;
+  background: rgba(6, 144, 153, 0.2);
   height: 135px;
-  border: 1px solid #EEF2F6;
+  border: 1px solid rgba(6, 144, 153, 0.8);
   box-shadow: none;
   width: 100%;
 }
 #contact-form .block button {
   width: 100%;
   height: 60px;
-  background: #47424C;
+  background: rgba(6, 144, 153, 0.8);
   border: none;
   color: #fff;
   font-family: 'Open Sans', sans-serif;
@@ -1459,8 +1536,14 @@ font-weight: 500;
 /*--
 	footer Start
 --*/
+
+
+
+
+
+
 footer {
-  background: #F5F5F5;
+  background: rgba(6, 144, 153);
   text-align: center;
   padding-top: 48px;
   padding-bottom: 55px;
@@ -1475,10 +1558,11 @@ footer .navbar-brand {
 footer p {
   font-size: 13px;
   line-height: 25px;
-  color: #919191;
+  color: #fff;
 }
 footer a {
-  color: #595959;
+  color: #fff;
+  font-weight: bold;
 }
 footer .footer-manu {
   padding-bottom: 25px;
@@ -1493,10 +1577,13 @@ footer .footer-manu ul li {
 }
 footer .footer-manu ul li a {
   display: inline-block;
-  color: #494949;
+  color: #fff;
+  font-weight: bold;
+
 }
 footer .footer-manu ul li a:hover {
-  color: #000;
+  color: #FFF;
+  font-size: 15px;
 }
 
 
