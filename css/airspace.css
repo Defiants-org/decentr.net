@@ -51,7 +51,7 @@ a:active {
 }
 .section-title {
   margin-bottom: 100px;
-  padding-top: 50px;
+  padding-top: 100px;
 }
 .section-title h2 {
   text-transform: uppercase;
@@ -139,14 +139,14 @@ nav .navbar-toggle {
   margin: 13px 15px 13px 0;
 }
 
-
 nav.navbar.shrink {
   min-height: 35px;
 }
+
 nav.shrink a {
   padding-top: 10px !important;
   padding-bottom: 10px !important;
-  font-size: 12px;
+  font-size: 17px;
 }
 nav.shrink .navbar-brand {
   width: 380px;
@@ -156,8 +156,6 @@ nav.shrink .navbar-toggle {
   padding: 4px 5px;
   margin: 8px 15px 8px 0;
 }
-.add{
-    background-color:#ff0;}
 
 /*------------------------------------------------------------   -----------   -----------   --------------------------------------------------------------------------
 					Index Start
@@ -195,7 +193,7 @@ nav.shrink .navbar-toggle {
   font-size: px;
   margin-right: 190px;
     text-transform: uppercase;
-  text-align: justify;
+  text-align: left;
   line-height: 60px;
   letter-spacing: 10px;
   padding-bottom: 45px;
@@ -250,8 +248,7 @@ nav.shrink .navbar-toggle {
 }
 #service  h1 {
   font-size: 28px;
-  padding-top: 100px;
-  margin: 0;
+  margin: 40px 0 0 0;
   color: #000;
   font-weight: 600;
 }
@@ -360,7 +357,6 @@ margin: 0 -30px 0 -30px;
   box-sizing: border-box;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  padding: 100px 0;
 }
 
 #feature:before {
@@ -496,10 +492,9 @@ ROADMAP
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 50%;
-  padding: 150px 0 300px 0;
+  padding: 0 0 300px 0;
   position: relative;
   text-align: center;
-  padding: 100px 0;
 }
 
 #roadmap h1 {
