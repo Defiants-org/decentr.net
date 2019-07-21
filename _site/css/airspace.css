@@ -196,7 +196,7 @@ nav.shrink .navbar-toggle {
   text-align: left;
   line-height: 60px;
   letter-spacing: 10px;
-  padding-bottom: 45px;
+  padding-bottom: 25px;
   padding-top: 80px;
 
 }
@@ -249,7 +249,7 @@ nav.shrink .navbar-toggle {
 }
 #service  h1 {
   font-size: 28px;
-  margin: 0 0 0 0;
+  margin: 20px 0 0 0;
   color: #6b6b6b;
   font-weight: 600;
 }
