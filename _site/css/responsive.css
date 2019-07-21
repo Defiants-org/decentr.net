@@ -1694,9 +1694,9 @@ px      68    160    252    344    436    */
     Contact Start
   --*/
   #global-header .block h1 {
-    margin-left: -70px;
-    margin-top: 20px;
-    text-transform: capitalize;
+      margin-left: -100px;
+      margin-top: 20px;
+      text-transform: capitalize;
   }
 
 
