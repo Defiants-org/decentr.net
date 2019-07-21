@@ -126,6 +126,8 @@ nav a {
   color: #fff;
   background: rgba(6, 144, 153, 0.7);
     }
+
+
     #nav .navbar-default .navbar-nav>.active>a,
   	.navbar-default .navbar-nav>.active>a:hover,
   	.navbar-default .navbar-nav>.active>a:focus {
@@ -1596,6 +1598,7 @@ footer .footer-manu ul li a:hover {
 #intro {
   padding: 200px 0;
 }
+
 #intro p {
 font-size: 18px;
 font: 'Roboto', sans-serif;
