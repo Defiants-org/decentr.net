@@ -11,7 +11,6 @@ author: Rich James
 *The question as to the relevance and timeliness of implementing our radically-new decentralised technology depends on whether we as a society are prepared to choose freedom over fiat.*
 
 ![alt text](https://miro.medium.com/max/3200/1*skIQJKyqxajPuhk35tXtGw.jpeg)
-
 <sub> All “invented” currencies are not created equal — including fiat</sub>
 
 It is a critical choice to make because to choose fiat leads to the dark side of socioeconomic subservience and state manipulation whereas freedom leads to…well, what exactly? What can we replace fiat with? (Hint: The wildly fluctuating cryptocurrencies of today are not a stable answer. Ahem, bitcoin bubble, anyone?)
@@ -21,7 +20,6 @@ Our radically-new tech, a DApp called Decentr, delivers a decentralised solution
 Yes, *social good* — as much as mainstream economists and bankers and their ilk hate the idea of people randomly inventing and circulating their own currency for such an egregious (to them) purpose. Where does such vitriol stem from? It stems from the fact they know it works.
 
 ![alt text](https://miro.medium.com/max/1400/1*jnou6d-RFHNlqVuTVzwNPQ.jpeg)
-
 <sub>We know “invented” currencies work because all currencies are a human-made invention</sub>
 
 How do they know this (and you should too)? Because of the historic and contemporary real-world instances of where this actually *happened* (and continues to happen), that’s how. Where currency issuance happens — not arbitrarily against gold reserves and burgeoning debt — but for the *public good*, the folly of mainstream economic theory is revealed in *practice*. As history attests, print your *own* money, purely in exchange for goods or services rendered (and *not* for the benefit of money borrowed from international banking cartels), and you actually *stimulate* equal supply and demand, eliminating debt, inflation or the need for onerous income taxes.

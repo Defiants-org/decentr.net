@@ -9,10 +9,9 @@ author: Rich James
 *This post forms a continuation of a series of posts outlining the bare bones underpinnings — the basic philosophical stance — that characterises the various facets of our project; in particular our game-changing economic model we call “deconomics” (“Decentr/decentralised” economics).*
 
 ![alt text](https://miro.medium.com/max/4800/1*uGKmY9-UvCQvr9az4uGhIg.jpeg)
-
 <sub>Decentr: Extracting Economic Value from Metacurrency Principles</sub>
 
-In this post, we aim to describe in more detail how deconomics is a naturally emergent heterodox school of economics that underpins a “true” data economy as part of a Next Generation Internet (NGI).
+In this post, we aim to describe in more detail how deconomics is a naturally emergent heterodox school of economics that underpins a “true” data economy as part of a Next Generation Internet (NGI), also known as web 3.0.
 
 ### The Basis for Deconomics
 Deconomics is based on heterodox and behavioural economics, with the addition of Einsteinian relativity extended into the economic arena (due to our tech rendering an NGI “causal”); this conflation of disciplines means our tech and algorithms can at first sound a little weird. Crazy even. (Some of the results we are getting from our algorithms most certainly do!)
@@ -81,7 +80,7 @@ This concept only sounds so alien to us all because the powers that be know that
 
 So forget about putting money front and centre. We did: if you want true economic freedom and egalitarian wealth creation, focus on making sure you are your *own* exchange rate; from that point on, the global money markets (digital and fiat) work for *you* — to make your rent cheaper… grocery bills and school tuition fees more affordable… a litre of petrol the price of a pint of milk.
 
-In a causal NGI (Next Generation Internet), it’s up to *you*.
+In a causal NGI, it’s up to *you*.
 
 We cannot stress enough: reread the above and ensure you apprehend that money (digital or fiat) figures nowhere into the fundamental principles of our deconomy because when a money-currency of any kind is introduced we’re on the slippery slope to centralisation and third-party control.
 
