@@ -9,6 +9,7 @@ author: Rich James
 *The* [**development of our platform**](https://www.datadriveninvestor.com/2019/02/23/blockchain-the-most-useless-and-overhyped-technology-in-history/?source=post_page) *, called Decentr, is currently progressing in lockstep with our R&D as part of our upcoming IEO.*
 
 ![alt text](https://miro.medium.com/max/3200/1*EDa8k9oRcwmOs0AIM2KYPA.jpeg)
+
 <sub>Looming economic crisis: the current economic system is not a sustainable model</sub>
 
 This continues to excite significant industry and investor interest in the decentralised future we propose while further raising our public profile. As a result, we are increasingly asked to give our opinions on everything from economic policy to Holochain hApps and recurrent neural networks. The variety of opinions sought by the media, SME’s, investors, researchers, think tanks and others is understandable: the sum of moving parts required to usher in a true Internet of Value (IoV) as part of the Next-Generation Internet (NGI) that our tech is set to help create requires a broadly interdisciplinary approach.
@@ -35,6 +36,7 @@ In other words, robots (and their virtual equivalents) are taking over from huma
 Decentr accepts this reality and exploits it for social good: our parallel economy taps a vast and near-limitless source of human productivity and potential — the realisation of individual-achievement-and-self-fulfilment-as-a-value-store to replace money-as-a-value-store online. It is not only impossible for a machine to ever replicate this activity but our AI, called DecAI, needs the output created by our radically-new paradigm in order to train on in order to work more efficiently and coherently *with* humans. Our parallel economy is win-win for humans and AI.
 
 ![alt text](https://miro.medium.com/max/1400/1*53dUNFV6FZ4kWH1c8du1ZA.jpeg)
+
 <sub>Cycling from boom to bust: the coming economic crisis will be worse than 2008</sub>
 
 ## Averting an Engineered Economic Crisis
