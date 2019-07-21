@@ -1594,7 +1594,11 @@ footer .footer-manu ul li a:hover {
 	wrapper Start
 --*/
 #intro {
-  padding: 150px 0;
+  padding: 200px 0;
+}
+#intro p {
+font-size: 18px;
+font: 'Roboto', sans-serif;
 }
 #intro .block h2 {
   padding-top: 35px;
