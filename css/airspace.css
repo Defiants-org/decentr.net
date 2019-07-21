@@ -1590,55 +1590,28 @@ footer .footer-manu ul li a:hover {
 
 
 
-/*#intro {
-  padding: 60px 0;
+/*--
+	wrapper Start
+--*/
+#intro {
+  padding: 150px 0;
 }
-#intro .block h1 {
-  font-family: 'Roboto', sans-serif;
-  padding: 35px 0px 35px 0;
-  line-height: 35px;
+#intro .block h2 {
+  padding-top: 35px;
+  line-height: 27px;
   margin: 0;
-  font-weight: 600;
 }
 #intro .block p {
-  font-family: 'Roboto', sans-serif;
   color: #7B7B7B;
   padding-top: 20px;
 }
 #intro .block img {
-
-  height: 600px;
-  width: 600px;
-  margin-right: -265px;
+  padding-left: 40px;
+  width: 100%;
 }
 #intro .section-title {
   margin-bottom: 0px;
 }
-#intro p {
-  padding-top: 100px;
-  font-size: 23px;
-  line-height: 40px;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
-  letter-spacing: 3px;
+#intro .section-title p {
+  padding-top: 20px;
 }
-#intro .block .par1 {
-  margin: 0 0px 0 -130px;
-
-}
-
-#intro .container {
-  margin: auto;
-
-}
-
-#intro .block .par2 {
-  color: #fff;
-  margin: 30px -140px 0 0px;
-  padding: 10px 30px 10px 50px;
-  background: rgb(6, 144, 153);
-}
-
-#intro .block .par2 p {
-  color: #fff;
-} */
