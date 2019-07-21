@@ -7,7 +7,7 @@ author: Rich James
 ---
 
 *The* [**development of our platform**](https://www.datadriveninvestor.com/2019/02/23/blockchain-the-most-useless-and-overhyped-technology-in-history/?source=post_page) *, called Decentr, is currently progressing in lockstep with our R&D as part of our upcoming IEO.*
-
+<br><br><br>
 ![alt text](https://miro.medium.com/max/3200/1*EDa8k9oRcwmOs0AIM2KYPA.jpeg)
 <sub>Looming economic crisis: the current economic system is not a sustainable model</sub>
 

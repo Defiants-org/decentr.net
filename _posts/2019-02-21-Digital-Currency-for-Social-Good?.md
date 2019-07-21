@@ -9,6 +9,7 @@ author: Rich James
 
 
 *The question as to the relevance and timeliness of implementing our radically-new decentralised technology depends on whether we as a society are prepared to choose freedom over fiat.*
+<br><br><br>
 
 ![alt text](https://miro.medium.com/max/3200/1*skIQJKyqxajPuhk35tXtGw.jpeg)
 <sub> All “invented” currencies are not created equal — including fiat</sub>

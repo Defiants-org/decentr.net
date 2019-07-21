@@ -7,13 +7,13 @@ author: Rich James
 ---
 
 *This post forms a continuation of a series of posts outlining the bare bones underpinnings — the basic philosophical stance — that characterises the various facets of our project; in particular our game-changing economic model we call “deconomics” (“Decentr/decentralised” economics).*
-
+<br><br><br>
 ![alt text](https://miro.medium.com/max/4800/1*uGKmY9-UvCQvr9az4uGhIg.jpeg)
 <sub>Decentr: Extracting Economic Value from Metacurrency Principles</sub>
 
 In this post, we aim to describe in more detail how deconomics is a naturally emergent heterodox school of economics that underpins a “true” data economy as part of a Next Generation Internet (NGI), also known as web 3.0.
 
-### The Basis for Deconomics
+## The Basis for Deconomics
 Deconomics is based on heterodox and behavioural economics, with the addition of Einsteinian relativity extended into the economic arena (due to our tech rendering an NGI “causal”); this conflation of disciplines means our tech and algorithms can at first sound a little weird. Crazy even. (Some of the results we are getting from our algorithms most certainly do!)
 
 As a result, the eyes of most mainstream economists glaze over when we deliver to them our deconomics paper.
@@ -28,14 +28,14 @@ In essence, we *don’t* think crypto is really what most people *assume* it to 
 
 So from this point onwards in this post we might upset some of you died-in-the-wool crypto enthusiasts, but hear us out. (A truly decentralised economy is all that matters, no matter how we get there, right?) It will all make sense as you read.
 
-### Decentralisation or Bust
+## Decentralisation or Bust
 We are *literal* decentralisation evangelists but — and it’s a big but — we dispute (as does Holochain) that blockchain is really decentralised at all. So far, so good, but — and here’s the thing if we all with a cool head follow that logic — if we agree that *blockchain* is not decentralised then nor can be the coins it *supports*. With that assumption accepted, then we also must accept the distinction between digital tokens and fiat becomes less clear at a foundational conceptual and economic level.
 
 So maybe we’re all seeing this wrong. Blinded by the promise of a decentralised world, maybe we’re all being too quick to overlook the myriad shortfalls of the tech being developed to deliver on this promise and the coins that will reputedly underwrite it.
 
 As sacrilegious as this may sound in certain quarters, have you ever stopped to think that maybe digital coins are not the whole answer to human economic liberation and egalitarian wealth creation for all? Perhaps we’re better off bypassing the expensive-to-mine, energy-wasting and difficult-to-spend digital tokens as a solution to an egalitarian global super-economy and replace them with… well, replace them with what exactly?
 
-### Cutting out the Middle-Man
+## Cutting out the Middle-Man
 By definition and design, any coin created (digital or fiat) for any purposes on any platform, blockchain, state or private printing press, is by definition for anyone who hasn’t created it a third-party medium of exchange. Cash-money is the “middle-man” between desire and acquisition. (And middle men always take their cut, especially of bent dreams rent of their original purpose.) If this is assumed to be true then any coin (fiat or digital) can only ever be issued and used as part of *centralised* or at least part- or *pseudo*-centralised system.
 
 And then we’re careening back to square one!
@@ -50,7 +50,7 @@ This is where we step in with our radical tech/deconomics. Fundamentally, it is 
 
 Relax. Adopt a new mindset and our new paradigm becomes clear.
 
-### Agent-Centric Economic Control
+## Agent-Centric Economic Control
 So what is this new mindset? Try thinking like this: the first step is accepting that the only way to transfer and generate economic value and exchanges in a way that is 100% decentralised and agent-centric is *not* through the issuance and distribution of endless coins/money (for the reasons discussed above).
 
 Money just gets in the way. So what do we replace it *with*? Well, er, nothing. (You read that right!)
@@ -75,7 +75,7 @@ This paradigm is critical because it ensures all currencies, digital and fiat, a
 
 Fundamentally then, our economy is solely based on the fulfilment of individual potential to underwrite payments and exchanges. How cool is that?
 
-### Making the Mainstream Economy Work for You
+## Making the Mainstream Economy Work for You
 This concept only sounds so alien to us all because the powers that be know that what we propose *works*: better for them if the uninformed majority stays focused on the stick-and-carrot acquisition of the units of exchange and not turn their eyes to the real engine house that drives the economy and makes the rich ever richer: exchange rates.
 
 So forget about putting money front and centre. We did: if you want true economic freedom and egalitarian wealth creation, focus on making sure you are your *own* exchange rate; from that point on, the global money markets (digital and fiat) work for *you* — to make your rent cheaper… grocery bills and school tuition fees more affordable… a litre of petrol the price of a pint of milk.
