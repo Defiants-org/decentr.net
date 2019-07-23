@@ -419,29 +419,49 @@ font-weight: 500;
   font-weight: 400;
   letter-spacing: 2px;
   padding: 10px 10px 10px 20px;
-  margin-top: 26.5px;
+
 }
 
-#feature .par2 {
-background: rgba(6, 88, 99, 0.8);
-margin-top: 0px;
-padding: 30px 10px 10px 20px;
+#feature .p0 {
+background: rgba(6, 144, 153, 0.8);
+padding: 30px;
+margin-right: 85px;
+text-align: center;
 }
 
 #feature .par1 {
-width: 91.58%;
+width: 81.58%;
 }
 
 #feature .p1 {
   background: rgba(3, 105, 119, 0.8);
+  margin-bottom: 10px;
+  padding: 30px 10px 50px 20px;
 }
 
 #feature .p2 {
   background: rgba(43, 128, 144, 0.8);
+  margin-bottom: 10px;
+  padding: 30px 10px 60px 20px;
 }
 
 #feature .p3 {
   background: rgba(61, 146, 163, 0.8);
+  margin-bottom: 10px;
+  padding: 30px 10px 60px 20px;
+}
+
+
+#feature .p4 {
+  background: rgba(99, 176, 191, 0.8);
+  margin-bottom: 10px;
+  padding: 30px 10px 25px 20px;
+}
+
+#feature .p5 {
+  background: rgba(126, 187, 200, 0.8);
+  margin-bottom: 30px;
+  padding: 30px 10px 53px 20px;
 }
 
 #feature .btn-default {
@@ -455,15 +475,6 @@ width: 91.58%;
   padding: 0 0 3px 3px;
   background-color: rgba(61, 146, 163, 0.0);
   border-color: rgba(61, 146, 163, 0.6);
-}
-
-
-#feature .p4 {
-  background: rgba(99, 176, 191, 0.8);
-}
-
-#feature .p5 {
-  background: rgba(126, 187, 200, 0.8);
 }
 
 
@@ -670,19 +681,6 @@ font-weight: 500;
   letter-spacing: 3px;
   text-align: left;
 }
-
-#feature p {
-  color: #fff;
-  text-align: left;
-  font-size: 20px;
-  line-height: 30px;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 400;
-  letter-spacing: 2px;
-  padding: 10px 10px 10px 20px;
-  margin-top: 26.5px;
-}
-
 
 .tl-heading h4 {
   margin: 0;
