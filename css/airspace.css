@@ -859,7 +859,7 @@ margin-top: 50px;
   letter-spacing: 1px;
   text-align: justify;
 margin: 0 30px 0 20px;
-padding: 20px 20px 100px 30px;
+padding: 30px 30px 30px 30px;
 background: rgba(6, 144, 153, 0.8);
 -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
 }
@@ -875,7 +875,7 @@ background: rgba(6, 144, 153, 0.8);
   letter-spacing: 1px;
   text-align: justify;
 margin: 0 30px 0 20px;
-padding: 20px 20px 40px 30px;
+padding: 30px 30px 60px 30px;
 background: rgba(6, 144, 153, 0.8);
 -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
 }
@@ -891,7 +891,7 @@ background: rgba(6, 144, 153, 0.8);
   letter-spacing: 1px;
   text-align: justify;
 margin: 0 30px 0 20px;
-padding: 20px 20px 100px 30px;
+padding: 30px 30px 60px 30px;
 background: rgba(6, 144, 153, 0.8);
 -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
 }
