@@ -671,16 +671,6 @@ ROADMAP
   letter-spacing: 6px;
 }
 
-#feature h4 {
-  color: #fff;
-  font-size: 20px;
-  line-height: 30px;
-  font-family: 'Roboto', sans-serif;
-font-weight: 500;
-  letter-spacing: 3px;
-  text-align: left;
-}
-
 .tl-heading h4 {
   margin: 0;
   color: #888;
@@ -770,6 +760,14 @@ font-weight: 500;
 #team .section-title {
   margin-bottom: 50px;
   padding-top: 100px;
+}
+
+#team a {
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 106px;
 }
 
 
