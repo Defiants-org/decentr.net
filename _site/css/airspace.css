@@ -762,6 +762,14 @@ ROADMAP
   padding-top: 100px;
 }
 
+#team a {
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 106px;
+}
+
 
 #team {
   background: url("../img/hex7.png") no-repeat;
@@ -783,7 +791,7 @@ ROADMAP
   box-sizing: border-box;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  padding: 0 0 50px 0;
+  padding: 0 0 100px 0;
 }
 
 
