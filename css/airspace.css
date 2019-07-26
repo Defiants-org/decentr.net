@@ -134,6 +134,11 @@ nav a {
   		-webkit-box-shadow: 0 0 7px rgba(0, 0, 0, 0.6);
   	}
 
+#nav .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+    background: rgba(6, 144, 153, 0.8);
+  		-webkit-box-shadow: 0 0 7px rgba(0, 0, 0, 0.6);
+}
+
 
 nav .navbar-toggle {
   margin: 13px 15px 13px 0;
