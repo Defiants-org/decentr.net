@@ -189,15 +189,9 @@ px      68    160    252    344    436    528    620    712    */
   }
 
   /*--
-	slider-work Start
+	slider Start
 --*/
-  #slider-work .block h1 {
-    font-size: 28px;
-  }
 
-  #slider-work .block p {
-    font-size: 15px;
-  }
 
   #slider {
     padding-top: 100px;
@@ -294,12 +288,6 @@ px      68    160    252    344    436    528    620    712    */
     margin: 0;
   }
 
-  /*--
-	features Start
---*/
-  #features-work .block ul li {
-    width: 49%;
-  }
 
   /*--
   	features Start
@@ -375,6 +363,10 @@ px      68    160    252    344    436    528    620    712    */
       padding: 30px 10px 23px 20px;
   }
 
+  /*--
+ roadmap Start
+--*/
+
 
   #roadmap .timeline li .timeline-panel:after {
     position: absolute;
@@ -388,23 +380,10 @@ px      68    160    252    344    436    528    620    712    */
     content: " ";
   }
 
-  /*---------------------------------------------
-					Work close
------------------------------------------------*/
-  /*=============================================*/
-  /*---------------------------------------------
-					contact start
------------------------------------------------*/
-  #wrapper-contact .block {
-    padding-bottom: 50px;
-  }
 
   /*--
-	features-contact Start
+  team Start
 --*/
-  #features-contact .block ul li {
-    width: 49%;
-  }
 
   #team a {
       font-size: 50px;
@@ -462,6 +441,10 @@ px      68    160    252    344    436    528    620    712    */
   -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
   }
 
+  /*--
+  community Start
+--*/
+
   #comm a {
       font-size: 40px;
       margin-left: 120px;
@@ -477,7 +460,9 @@ px      68    160    252    344    436    528    620    712    */
   padding: 20px;
   }
 
-
+  /*--
+  contact, blog, faq Start
+--*/
 
   #global-header .block h1 {
     margin-left: -70px;
@@ -516,10 +501,7 @@ footer .footer-manu {
     color: #000;
   }
 
-  /*---------------------------------------------
-					contact close
------------------------------------------------*/
-  /*------------------*/
+
 }
 
 /*		Mobile Layout: 320px.
@@ -550,6 +532,10 @@ px      68    160    252    */
   p {
     font-size: 13px;
   }
+
+  /*--
+  header Start
+--*/
 
     header .navbar-default .navbar-nav {
       padding-top: 20px;
@@ -826,6 +812,9 @@ px      68    160    252    */
     padding: 10px;
   }
 
+  /*--
+  team Start
+--*/
 
   #team a {
       font-size: 50px;
@@ -883,6 +872,9 @@ px      68    160    252    */
   -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
   }
 
+  /*--
+  community Start
+--*/
 
   #comm a {
       font-size: 40px;
@@ -899,16 +891,11 @@ px      68    160    252    */
   padding: 20px;
   }
 
-  /*---------------------------------------------
-					Work close
------------------------------------------------*/
-  /*=============================================*/
-  /*---------------------------------------------
-					contact Start
------------------------------------------------*/
+
   /*--
-  Contact Start
+  blog,contact,faq Start
 --*/
+
 #global-header .block h1 {
   margin-left: -70px;
   margin-top: 20px;
@@ -916,41 +903,6 @@ px      68    160    252    */
 }
 
 
-  /*--
-	slider-contact Start
---*/
-  #slider-contact {
-    padding-top: 100px;
-    padding-bottom: 100px;
-  }
-
-  #slider-contact .block {
-    padding-left: 0px;
-  }
-
-  #slider-contact .block h1 {
-    font-size: 20px;
-  }
-
-  #slider-contact .block p {
-    font-size: 11px;
-    line-height: 25px;
-  }
-
-  /*--
-	wrapper-contact Start
---*/
-  #wrapper-contact .block {
-    padding-bottom: 50px;
-  }
-
-  #wrapper-contact .block .location p {
-    width: 100%;
-  }
-
-  #wrapper-contact .block .social-media-icon a i {
-    padding-top: 30px;
-  }
 
   /*--
 	features-contact Start
@@ -963,9 +915,6 @@ px      68    160    252    */
 
 
 
-  /*---------------------------------------------
-					contact close
------------------------------------------------*/
   /*--
 	footer Start
 --*/
@@ -986,7 +935,7 @@ px      68    160    252    344    436    */
 	Overrides styles for devices with a
 	device-pixel-ratio of 2+, such as iPhone 4.
 -----------------------------------------------    */
-@media only screen and (min-width: 376px) and (max-width: 425px) {
+@media only screen and (min-width: 375px) and (max-width: 425px) {
 
   /*--
   	Header Start
@@ -1010,9 +959,6 @@ px      68    160    252    344    436    */
     margin-bottom: 1px;
   }
 
-  /*--
-    Header Start
-  --*/
   #nav .navbar-brand {
     padding-top: 20px;
     margin-left: 5px;
@@ -1222,6 +1168,10 @@ px      68    160    252    344    436    */
     font-size: 15px;
   }
 
+  /*--
+  team Start
+--*/
+
   #team a {
       font-size: 50px;
       color: #fff;
@@ -1248,8 +1198,12 @@ px      68    160    252    344    436    */
   -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
   }
 
+  /*--
+  community Start
+--*/
+
   #comm {
-    background: url("../img/soi2.png");
+    background: url("https://res.cloudinary.com/liberationfront/image/upload/v1564134608/soi2_orq4if.png");
     background-position: 100% 94px;
     width: 100%;
     display: block;
@@ -1270,22 +1224,24 @@ px      68    160    252    344    436    */
     backface-visibility: hidden;
     padding-bottom: 100px;
   }
+
   #comm a {
       font-size: 40px;
-      margin-left: 178px;
+      margin-left: 175px;
   }
 
   #comm a:hover {
       font-size: 40px;
-      margin-left: 178px;
+      margin-left: 175px;
   }
 
   #comm p {
   font-size: 20px;
   padding: 20px;
   }
+
   /*--
-    Intro Start
+    blog Start
   --*/
   #intro {
     padding: 60px 0;
@@ -1565,6 +1521,11 @@ px      68    160    252    344    436    */
     font-size: 15px;
   }
 
+  /*--
+  team Start
+--*/
+
+
   #team a {
       font-size: 50px;
       color: #fff;
@@ -1591,8 +1552,13 @@ px      68    160    252    344    436    */
   -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
   }
 
+  /*--
+  community Start
+--*/
+
+
   #comm {
-    background: url("../img/soi2.png");
+    background: url("https://res.cloudinary.com/liberationfront/image/upload/v1564134608/soi2_orq4if.png");
     background-position: 100% 94px;
     width: 100%;
     display: block;
@@ -1629,7 +1595,7 @@ px      68    160    252    344    436    */
   }
 
   /*--
-    	Intro Start
+    	blog Start
     --*/
   #intro {
     padding: 60px 0;
@@ -1916,6 +1882,9 @@ px      68    160    252    344    436    */
     z-index: 1;
   }
 
+  /*--
+  team Start
+--*/
 
   #team a {
       font-size: 50px;
@@ -1943,10 +1912,13 @@ px      68    160    252    344    436    */
   -webkit-box-shadow: 0 0 11px rgba(0,0,0,0.35);
   }
 
+  /*--
+  community Start
+--*/
 
 
   #comm {
-    background: url("../img/soi2.png");
+    background: url("https://res.cloudinary.com/liberationfront/image/upload/v1564134608/soi2_orq4if.png");
     background-position: 100% 94px;
     width: 100%;
     display: block;
@@ -1984,7 +1956,7 @@ px      68    160    252    344    436    */
 
 
   /*--
-    	Intro Start
+    	blog Start
     --*/
   #intro {
     padding: 60px 0;
