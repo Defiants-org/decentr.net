@@ -26,13 +26,12 @@
 <loc>http://localhost:4000/contact/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/faq/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/work/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/faq.html</loc>
-<lastmod>2019-07-26T22:14:34+02:00</lastmod>
 </url>
 </urlset>
