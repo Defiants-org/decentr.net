@@ -1238,6 +1238,8 @@ px      68    160    252    344    436    */
   #comm p {
   font-size: 20px;
   padding: 20px;
+  margin-left: 0;
+margin-right: 0;
   }
 
   /*--
