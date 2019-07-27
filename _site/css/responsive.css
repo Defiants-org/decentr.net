@@ -1286,6 +1286,9 @@ px      68    160    252    344    436    */
   text-transform: capitalize;
 }
 
+#faq .block {
+  margin-right: 20px;
+}
 
   /*--
   	footer Start
@@ -1640,6 +1643,9 @@ px      68    160    252    344    436    */
   text-transform: capitalize;
 }
 
+#faq .block {
+  margin-right: 20px;
+}
 
   /*--
   	footer Start
@@ -1999,6 +2005,10 @@ px      68    160    252    344    436    */
       margin-left: -100px;
       margin-top: 20px;
       text-transform: capitalize;
+  }
+
+  #faq .block {
+    margin-right: 20px;
   }
 
 
