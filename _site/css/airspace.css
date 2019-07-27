@@ -1104,6 +1104,7 @@ font: 'Roboto', sans-serif;
 
 #faq {
   padding: 100px 0;
+  background: rgba(6, 144, 153, 0.2);
 }
 
 #faq .block {
