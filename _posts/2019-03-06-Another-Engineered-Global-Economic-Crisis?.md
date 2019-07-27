@@ -11,7 +11,7 @@ author: Rich James
 ![alt text](https://miro.medium.com/max/3200/1*EDa8k9oRcwmOs0AIM2KYPA.jpeg)
 <sub>Looming economic crisis: the current economic system is not a sustainable model</sub>
 
-This continues to excite significant industry and investor interest in the decentralised future we propose while further raising our public profile. As a result, we are increasingly asked to give our opinions on everything from economic policy to Holochain hApps and recurrent neural networks. The variety of opinions sought by the media, SME’s, investors, researchers, think tanks and others is understandable: the sum of moving parts required to usher in a true Internet of Value (IoV) as part of the Next-Generation Internet (NGI) that our tech is set to help create requires a broadly interdisciplinary approach.
+This continues to excite significant industry and investor interest in the decentralised future we propose while further raising our public profile. As a result, we are increasingly asked to give our opinions on everything from economic policy to Holochain hApps and recurrent neural networks. The variety of opinions sought by the media, SME’s, investors, researchers, think tanks and others is understandable: the sum of moving parts required to usher in a true Internet of Value (IoV) as part of the web 3.0 that our tech is set to help create requires a broadly interdisciplinary approach.
 
 However, such a multi-faceted conceptual and developmental approach can lead to misunderstandings as regards our broader aims and goals — especially when seen from a certain perspective, and without taking all the separate parts into account.
 

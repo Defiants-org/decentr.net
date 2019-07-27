@@ -14,7 +14,7 @@ author: Rich James
 In this post, we aim to describe in more detail how deconomics is a naturally emergent heterodox school of economics that underpins a “true” data economy as part of a Next Generation Internet (NGI), also known as web 3.0.
 
 ## The Basis for Deconomics
-Deconomics is based on heterodox and behavioural economics, with the addition of Einsteinian relativity extended into the economic arena (due to our tech rendering an NGI “causal”); this conflation of disciplines means our tech and algorithms can at first sound a little weird. Crazy even. (Some of the results we are getting from our algorithms most certainly do!)
+Deconomics is based on heterodox and behavioural economics, with the addition of Einsteinian relativity extended into the economic arena (due to our tech rendering an web 3.0 “causal”); this conflation of disciplines means our tech and algorithms can at first sound a little weird. Crazy even. (Some of the results we are getting from our algorithms most certainly do!)
 
 As a result, the eyes of most mainstream economists glaze over when we deliver to them our deconomics paper.
 
@@ -46,7 +46,7 @@ Sound familiar? That’s right: it is no different to *every* other centralised 
 
 Sigh. So… blockchain. Not exactly fulfilling its potential in any realm, and alas, we (and obviously Holochain, which is demonstrably *not* blockchain) don’t think it ever can due to this increasingly restrictive, *Emperor’s New Clothes* masquerade we’re all compelled to go along with as a “decentralised” money solution.
 
-This is where we step in with our radical tech/deconomics. Fundamentally, it is simple: we need to remove money as an *impediment* for trade and exchanges (and the primary motivation for all human endeavour). Digital. Fiat. Copper alloy, paper and shekels and shells. All gotta be left at the door of our new deconomy. Put them out of your mind. “Money” of any kind is the past as regards Decentr’s internal NGI deconomics (which is not to say “get rid of” money or tokens *altogether*, just reappraise their use in a new kind of agent-centric economy).
+This is where we step in with our radical tech/deconomics. Fundamentally, it is simple: we need to remove money as an *impediment* for trade and exchanges (and the primary motivation for all human endeavour). Digital. Fiat. Copper alloy, paper and shekels and shells. All gotta be left at the door of our new deconomy. Put them out of your mind. “Money” of any kind is the past as regards Decentr’s internal web 3.0 deconomics (which is not to say “get rid of” money or tokens *altogether*, just reappraise their use in a new kind of agent-centric economy).
 
 Relax. Adopt a new mindset and our new paradigm becomes clear.
 
@@ -69,7 +69,7 @@ Spot the subtext? Reread that definition: on closer inspection, that statement, 
 
 It also needs to be borne in mind we didn’t “come up” with this concept one morning over a bowl of cornflakes then execute: no; it actually *exists* (and *pre*-existed prior to us observing and understanding it) *within* the algorithms of TRL 5 tech —*already* built — and then we subsequently interpreted it and modelled deconomics on these algorithms.
 
-The deconomics model means that on our hApp each individual user *is* — not “has access to” — but physically *“IS”* his or her *own personal exchange rate*; an exchange rate that fluctuates according to user activity in the same way as money-currency exchange rates (again, reread Art Brock’s quote above). This paradigm is possible because our system decentralises all online data giving it both the value store properties of money as well as the causal (read our previous post on our [“causal NGI”](https://medium.com/@Rich.James/clarifying-decentrs-philosophical-synergy-with-holochain-b98f7fbb0e41) philosophy for a better understanding of this concept) capabilities of real-world financial markets.
+The deconomics model means that on our hApp each individual user *is* — not “has access to” — but physically *“IS”* his or her *own personal exchange rate*; an exchange rate that fluctuates according to user activity in the same way as money-currency exchange rates (again, reread Art Brock’s quote above). This paradigm is possible because our system decentralises all online data giving it both the value store properties of money as well as the causal (read our previous post on our [“causal web 3.0”](https://medium.com/@Rich.James/clarifying-decentrs-philosophical-synergy-with-holochain-b98f7fbb0e41) philosophy for a better understanding of this concept) capabilities of real-world financial markets.
 
 This paradigm is critical because it ensures all currencies, digital and fiat, as well as the mainstream economy are actually modulated by *individual users* through the generation, exchange and reuse of their own secure and immutable data and meta data. In short, positive online engagement means “your” exchange rate goes up, relative to real world currencies and prices, meaning purchasing goods via our hApp *for you* is cheaper (or at least agent-centric to you), relative to all other users and real-world prices.
 
@@ -80,7 +80,7 @@ This concept only sounds so alien to us all because the powers that be know that
 
 So forget about putting money front and centre. We did: if you want true economic freedom and egalitarian wealth creation, focus on making sure you are your *own* exchange rate; from that point on, the global money markets (digital and fiat) work for *you* — to make your rent cheaper… grocery bills and school tuition fees more affordable… a litre of petrol the price of a pint of milk.
 
-In a causal NGI, it’s up to *you*.
+In a causal web 3.0, it’s up to *you*.
 
 We cannot stress enough: reread the above and ensure you apprehend that money (digital or fiat) figures nowhere into the fundamental principles of our deconomy because when a money-currency of any kind is introduced we’re on the slippery slope to centralisation and third-party control.
 
@@ -88,7 +88,7 @@ Once we have achieved this — the word can only be “revolutionary” — soci
 
 For now, we only ask you comprehend the *theory*: as discussed, we have built the tech to achieve this paradigm, and it works. We have the deconomic model ready to support these goals. We will in our next (and subsequent posts) be going into the conceptual and technical way we have gone about this.
 
-Oh, we would also add (though the details of this are for another post), if you get all of the above right, it means an NGI is *sustainable* as it only uses the existing energy already consumed by devices (and not the equivalent of the entire annual electricity consumption of Ireland in Bitcoin mining!)
+Oh, we would also add (though the details of this are for another post), if you get all of the above right, it means web 3.0 is *sustainable* as it only uses the existing energy already consumed by devices (and not the equivalent of the entire annual electricity consumption of Ireland in Bitcoin mining!)
 
 If you’re still hankering for a glimpse of what a world underpinned by the assumption of individual exchange rates, we recommend these two articles:
 
