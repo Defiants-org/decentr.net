@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Mainstream Holochain Adoption; Keeping the End User in the Loop
 subtitle:
 date: 2019-06-03 18:09:55

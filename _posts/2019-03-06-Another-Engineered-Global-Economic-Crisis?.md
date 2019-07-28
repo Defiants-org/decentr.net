@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Another Engineered Global Economic Crisis Looming? Not if Our Data Economy Can Help it
 subtitle:
 date: 2019-03-06 18:09:55

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Big Data Plus Crypto; the “New Oil”?
 subtitle:
 date: 2019-07-26 18:09:55

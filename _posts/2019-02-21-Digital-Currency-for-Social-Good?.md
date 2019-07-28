@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Digital Currency for Social Good? (Psst, it Works for “Invented” Currency in the Real World)
 subtitle:
 date: 2019-02-21 18:09:55

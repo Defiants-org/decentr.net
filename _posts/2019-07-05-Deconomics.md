@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: “Deconomics”; Extracting Economic Value from Metacurrency Principles
 subtitle:
 date: 2019-07-05 18:09:55
