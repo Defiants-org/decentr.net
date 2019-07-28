@@ -1079,7 +1079,7 @@ background: rgba(6, 144, 153, 0.8);
 	wrapper Start
 --*/
 #intro {
-  padding: 200px 0;
+  padding: 150px 0;
 }
 #intro p {
 font-size: 18px;
@@ -1095,8 +1095,8 @@ font: 'Roboto', sans-serif;
   padding-top: 20px;
 }
 #intro .block img {
-  padding-left: 40px;
-  width: 100%;
+  padding: 0 90px 0 0;
+width: 100%;
 }
 #intro .section-title {
   margin-bottom: 0px;
