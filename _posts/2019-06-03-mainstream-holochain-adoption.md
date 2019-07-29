@@ -10,7 +10,6 @@ author: Rich James
 *This post was inspired by a fantastic conversation we recently had with a fellow Holonaught who is designing a hApp that will facilitate funding for large scale global infrastructure projects (more about that exciting partnership in upcoming posts as it progresses).*
 
 ![Foundational tech for an web 3.0: Engaging the end user](https://miro.medium.com/max/2400/1*OsxguGDCR5Z4E4g4aionvw.jpeg)
-<sub>Foundational tech for web 3.0: Engaging the end user</sub>
 
 This Holonaught made the point — a point we share strongly — that we need to first build as a priority something akin to a web browser add-on in order that the mainstream public can and will rapidly adopt Holochain’s underlying tech. (As mentioned in a [previous post](https://medium.com/@Rich.James/decentr-netscape-for-ngi-31b912b1ca85), our solution for this is to build such an add-on; a platform that by way of analogy with the development of the current net functions as the Netscape-like “user layer” with Holochain functioning as the HTML internet-like foundational tech.)
 
@@ -25,7 +24,6 @@ The public’s wariness of the tech — in fact, any new tech, invention or inno
 It’s human nature to hope for a better future while simultaneously fearing the necessary precursor for this positive future: *change*. Radical, fundamental, profound. If you had have told the average person in 1982 that the next big societal paradigm shift would be in the form of tiny data “packets” containing the alphabetic text of a message that was then converted into electronic signals and transmitted over phone lines the reaction to its usefulness would have been akin to asking a 19th Century coachman whether he thought a horseless metal box powered by an ICE would ever catch on.
 
 ![Automobiles caught on … but only as part of foundational integrated systems](https://miro.medium.com/max/1276/1*eDLr0xAKwyyzx2B-ogh53w.jpeg)
-<sub>Automobiles caught on … but only as part of foundational integrated systems</sub>
 
 Certainly, the internet and automobiles *did* catch on — but — and not wishing to put to finer point on it — only as part of wider integrated systems (road networks/web browsers respectively)
 

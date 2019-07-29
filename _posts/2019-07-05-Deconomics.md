@@ -9,8 +9,8 @@ author: Rich James
 
 *This post forms a continuation of a series of posts outlining the bare bones underpinnings — the basic philosophical stance — that characterises the various facets of our project; in particular our game-changing economic model we call “deconomics” (“Decentr/decentralised” economics).*
 <br><br><br>
-![alt text](https://miro.medium.com/max/4800/1*uGKmY9-UvCQvr9az4uGhIg.jpeg)
-<sub>Decentr: Extracting Economic Value from Metacurrency Principles</sub>
+![Decentr: Extracting Economic Value from Metacurrency Principles](https://miro.medium.com/max/4800/1*uGKmY9-UvCQvr9az4uGhIg.jpeg)
+
 
 In this post, we aim to describe in more detail how deconomics is a naturally emergent heterodox school of economics that underpins a “true” data economy as part of a Next Generation Internet (NGI), also known as web 3.0.
 

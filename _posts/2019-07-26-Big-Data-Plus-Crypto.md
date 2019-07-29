@@ -10,7 +10,7 @@ author: Rich James
 *We think it is — at least it has the potential to be.*
 
 ![Drilling down into big data is far more cost effective and beneficial than mining for crypto](https://miro.medium.com/max/2560/1*BVPFTo2ks0ypg-wGs22GSg.jpeg)
-<sub>Drilling down into big data is far more cost effective and beneficial than mining for crypto</sub>
+
 
 This “formula” emerged from the closed testing of the backend tech for our new decentralised [“user layer”](https://decentr.net/2019/06/03/mainstream-holochain-adoption.html) technology and platform, called Decentr.
 
