@@ -18,12 +18,10 @@ layout: page
           </div>
         </div><!-- .col-md-7 close -->
       </div>
+      {% if site.disqus.shortname %}
+        {% include disqus_comments.html %}
+      {% endif %}  
     </div>
-
-    {% if site.disqus.shortname %}
-      {% include disqus_comments.html %}
-    {% endif %}
-
   </section>
 </div>
 <p class="center-text" style="padding: 30px;">
