@@ -16,9 +16,9 @@ keep_files:
 # Site settings
 title: Earn by surfing the net
 subtitle: "Decentr provides a web browser experience that gives surfing the internet a payable value for every user"
-url: "http://decentr.net/" # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl:
+baseurl: "/decentr.net"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
